@@ -1,0 +1,254 @@
+@media screen and (min-width: 320px) and (max-width: 767px){
+
+ul.cust-navbar li{
+	padding:0;
+}
+.cust-navbar-brand img {
+width: 57%;}
+.ourmission{
+	top:36%;
+}
+p, li {
+    font-size: 14px;
+    font-family: 'TCM_____';
+    line-height: 18px;
+    color: #646464;
+}
+.sub-panel-det h1{font-size:24px;margin-top:10px !important;}
+.ourmission h1{
+	font-size:17px;
+	margin:16px 0 0 0;
+}
+.ourmission h5 a img{
+	width:12%;
+}
+.ourmission h5{
+	margin-top:-23%;
+}
+.teamimg img{
+	width:100%;
+}
+.image-overlay-content{
+	width:100%;
+}
+.image-overlay-content1{
+	width:100%;
+}
+.ourmission h3{
+	font-size:14px;
+	margin:2px 0;
+}
+.borbot{
+	width:92%;
+	margin:0 auto;
+}
+.whatwe h1,.whatwe1 h1{
+	font-size:25px;
+}
+.offerbor{
+	width:92%;
+}
+.whatwe h4,.whatwe1 h4{
+	font-size:15px;
+}
+.services-bg{background-size:cover !important;min-height:380px !important;}
+.programing{
+	border-right:1px solid transparent;
+}
+.aboutwho{
+	margin:10% 5%;
+}
+.aboutwho p {
+    line-height: 22px;
+    margin: 0 0 0 0;
+}
+.discover1{
+	margin:0;
+}
+.develop1{
+	margin:0;
+}
+.deliver1{
+	margin:0;
+}
+.inproject p {
+    font-size: 16px;
+    margin: 0 7%;
+}
+.inproject h4{
+	margin:10% 0;
+}
+.careerstext{
+	top:13%;
+}
+.careerstext h1{
+	font-size:22px;
+}
+.careerstext h4{
+	font-size:14px;
+}
+.waitingfor h2{
+	margin:0 8%;
+}
+.waitingfor h4{
+	margin:10% 0;
+}
+.clientstxt{
+	top:12%;
+}
+.clientstxt h1{
+	font-size:22px;
+}
+.clientstxt h4 {
+    font-size: 12px;
+}
+.clientsimg img{
+	margin:0 24%;
+}
+.servicestxt{
+	top:15%;
+}
+.servicestxt h1{
+	font-size:22px;
+}
+.javaservices p{
+	width:95%;
+}
+.sidecont{
+	margin:25px 0 0 0;
+}
+.marpad{
+	margin:0 15px;
+	border:1px solid #ccc;
+}
+.contactpage {
+    left: 3%;
+    top: 12%;
+}
+.contactpage h1{
+	font-size:22px;
+}
+.contactpage h4 {
+    font-size: 12px;
+    line-height: 14px;
+	margin:2px 0;
+}
+.contactpage h3{
+	font-size:15px;
+	margin:0;
+}
+.ser-frmctrl{background-color:fff;font-size:18px;color:#32337a;font-family:'TCB_____';}
+.banner img{height:170px !important;margin-top:3em;}
+.banner1 img{margin-top:3.1em;}
+.whowe h1{font-size:29px;}
+.addressd{margin-top:-5%;}
+h2.contactus{font-size:24px;}
+.carer-tb{height:265px;}
+}
+@media screen and (min-width: 320px) and (max-width: 640px){
+.ourmission h5{
+	margin-top:-20%;
+}	
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px){
+.ourmission{
+	top:22%;
+}
+.carer-tb{height:235px;}
+.services-bg{background-size:cover !important;}
+.ourmission h1{font-size:28px;}
+.aboutwho{
+	margin:4% 5%;
+}	
+h2.contactus{font-size:25px;}
+.banner img ,.banner1 img {
+height: 260px !important;}
+.aboutwho p {
+    color: #fff;
+    font-size: 15px;
+    line-height: 20px;
+    margin: 0 0 0 0;
+}
+.aboutwho h1{
+	font-size:30px;
+	margin:3px 0;
+}
+.aboutwho h4{
+	margin:4px 0;
+}
+.discover1{
+	margin:23% 0;
+}
+.develop1{
+	margin:23% 0;
+}
+.deliver1{
+	margin:23% 0;
+}
+.logo-img img{
+	width:90%;
+}
+.logo-img{
+	margin:15% 0;
+}
+.careerstext{
+	top:12%;
+}
+.waitingfor h2{
+	margin:0 17%;
+}
+.clientstxt{
+	top:12%;
+}
+.ourmission h5{
+	margin-top:-10%;
+}
+.servicestxt{
+	top:12%;
+}
+.cust-panel-title a{
+	font-size:9px;
+}
+.glyphicon{
+	top:6px;
+}
+h6.request{
+	font-size:10px;
+}
+
+.contactpage h4{
+	font-size:18px;
+}
+}
+
+
+
+
+
+
+/* LANDSCAPE MODE */
+
+/* #### Mobile Phones Landscape #### */
+@media screen and (min-width : 320px) and (max-width : 767px) and (orientation :landscape) {
+	.ourmission{
+		top:36% !important;
+	}
+}
+@media screen and (min-width : 768px) and (max-width : 1279px) and (orientation :landscape) {
+	.ourmission{
+		top:25% !important;
+	}
+.logo-img{
+	margin:11% 0;
+}
+.discover1{
+	margin:17% 0;
+}
+.develop1{
+	margin:17% 0;
+}
+.deliver1{
+	margin:17% 0;
+}
+}
