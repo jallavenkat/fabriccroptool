@@ -1,0 +1,4 @@
+applyFabric.php  crop.php	     pieces	     shirt
+B00C.jpg	 includes	     sample.png      test.txt
+BL001.jpg	 index\ -\ Copy.php  save.php	     viewfabricpieces.php
+checks.jpg	 index.php	     savepieces.php  viewfabrics.php demo testing writing here
